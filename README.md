@@ -1,7 +1,4 @@
-# Vigil-ncia-One-Health-e-Estratificao_de_Risco-da-Esquistossomose
-Projeto de pesquisa para desenvolvimento de uma abordagem integrada One Health, utilizando Python, análise estatística, dados epidemiológicos, ambientais, moleculares e geoespaciais para estratificação do risco de transmissão da esquistossomose.
 
----
 # Vigilância One Health e Estratificação de Risco da Esquistossomose
 
 ## Visão Geral
